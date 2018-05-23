@@ -5,5 +5,5 @@
 - git: {local-name: husky, uri: 'https://github.com/Minseongusg/husky.git', version: 'mapping'}
 - git: {local-name: octomap, uri: 'https://github.com/Minseongusg/octomap_mapping.git', version: 'mapping'}
 - git: {local-name: velodyne, uri: 'https://github.com/Minseongusg/velodyne_simulator.git', version: 'mapping'}
-- git: {local-name: flight_space_mapping, uri: 'https://github.com/mkpark2017/flight_space_mapping.git'}
-- git: {local-name: wind_visualization, uri: 'https://github.com/mkpark2017/wind_visualization'}
+- git: {local-name: flight_space_mapping, uri: 'https://github.com/Minseongusg/flight_space_mapping.git', version: 'mapping'}
+- git: {local-name: wind_visualization, uri: 'https://github.com/Minseongusg/wind_visualization', version: 'mapping'}
